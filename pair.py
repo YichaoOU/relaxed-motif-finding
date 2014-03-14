@@ -1,7 +1,9 @@
+# import things
 from Bio import SeqIO as io
 from StringIO import StringIO as si
 from Bio import pairwise2 as pa
 import sys
+
 import os
 import re
 motif={}
